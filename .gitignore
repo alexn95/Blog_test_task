@@ -1,0 +1,11 @@
+.idea/
+__pycache__
+.idea
+.env
+*.pyc
+*.pyo
+venv
+static
+settings_local.py
+/static
+db.sqlite3
